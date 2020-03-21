@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection
 Artificial Intelligence (AI) based on a combination of deep-learning algorithms and laser-imaging technology can be utilized to examine brain tissue and detect a brain tumor in near real-time
 
-#Hey!
+# Hey!
 This is Simple project which is based on Deep Learning.
 
 What all you need to do?
