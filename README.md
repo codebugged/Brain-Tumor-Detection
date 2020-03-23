@@ -15,5 +15,5 @@ Tensorflow==1.15.0, Numpy==1.18.2, PIL, Keras==2.2.5, and OpenCV
 
 3. Pass the test data as 'test_photo.jpg'
 
-4. Now execute the Prg.ipynb file.
+4. Now execute the Program.ipynb file.
 
